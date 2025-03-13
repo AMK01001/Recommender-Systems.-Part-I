@@ -78,6 +78,6 @@ DeskDrop — платформы для внутренних коммуникац
 работу с данными и оформление отчетов с помощью средств python
 
 ## Результаты
-Ноутбук с выполненными заданиями и выводами(https://github.com/AMK01001/Recommender-Systems.-Part-I/blob/main/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20I.ipynb)
+Ноутбук с выполненными заданиями и выводами(https://github.com/AMK01001/Recommender-Systems.-Part-I/blob/main/Recommender%20Systems.%20Part%20.ipynb)
 
 :arrow up:[к оглавлению](https://github.com/AMK01001/Recommender-Systems.-Part-I?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5)
